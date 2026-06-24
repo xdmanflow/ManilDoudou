@@ -76,11 +76,6 @@ languages:   Python · SQL · JS · PHP · C++ · C# · C Arduino · HTML/CSS
 ### GitHub Stats 
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xdmanflow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&rank_icon=github"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=xdmanflow&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=bc8cff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
-</p>
-
-<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdmanflow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook&langs_count=6"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xdmanflow&theme=tokyonight"/>
 </p>
