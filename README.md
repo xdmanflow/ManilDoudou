@@ -76,10 +76,5 @@ languages:   Python · SQL · JS · PHP · C++ · C# · C Arduino · HTML/CSS
 ### GitHub Stats 
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdmanflow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook&langs_count=6"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xdmanflow&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=xdmanflow&bg_color=0d1117&color=58A6FF&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
 </p>
