@@ -43,8 +43,7 @@ languages:   Python · SQL · JS · PHP · C++ · C# · C Arduino · HTML/CSS
 
 ```
 
-
-
+---
 ### GitHub Stats 
 
 <p align="center">
