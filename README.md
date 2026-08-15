@@ -42,7 +42,7 @@ school:      CESI École d'ingénieurs — AI & Data Science
 languages:   Python · SQL · JS · PHP · C++ · C# · C Arduino · HTML/CSS
 
 ```
----
+
 
 
 ### GitHub Stats 
