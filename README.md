@@ -25,24 +25,6 @@ I'm an engineering student at CESI, specialised in AI & Data Science. I build th
 
 
 
-
-
-
-
-
-
----
-### About Me
-
-```yaml
-
-name:        Manil DOUDOU
-location:    Toulouse, Occitanie, France
-school:      CESI École d'ingénieurs — AI & Data Science
-languages:   Python · SQL · JS · PHP · C++ · C# · C Arduino · HTML/CSS
-
-```
-
 ---
 ### GitHub Stats 
 
